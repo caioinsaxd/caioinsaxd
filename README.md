@@ -6,7 +6,7 @@ Building web applications, operating systems and different projects for fun 🚀
 
 ## 🚀 Tech Stack
 
-### Core
+### Core languages
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
