@@ -7,8 +7,10 @@ Building web applications, operating systems and different projects for fun 🚀
 ## 🚀 Tech Stack
 
 ### Core
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
