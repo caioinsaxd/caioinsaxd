@@ -20,15 +20,6 @@ Building web applications, operating systems and different projects for fun 🚀
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioinsaxd&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioinsaxd&layout=compact&theme=dark)
-
----
-
 ## 🤝 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/caio-santana-parize-802307271/
