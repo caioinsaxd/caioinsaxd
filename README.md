@@ -24,12 +24,12 @@ Building web applications, operating systems and different projects for fun 🚀
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioinsaxd&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioinsaxd&layout=compact&theme=dark)
 
 ---
 
 ## 🤝 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/caio-santana-parize-802307271/](https://www.linkedin.com/in/caio-santana-parize-802307271/
+- 💼 LinkedIn: https://www.linkedin.com/in/caio-santana-parize-802307271/
 - 📧 Email: caiosantanaparize2013@gmail.com
