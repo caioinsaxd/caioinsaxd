@@ -1,7 +1,7 @@
-# Greetings 👋
+# Caio Santana Parize
 
 **Full Stack Software Developer | English Instructor**  
-Building web applications, operating systems and different projects for fun 🚀
+
 
 
 ## 🚀 Tech Stack
