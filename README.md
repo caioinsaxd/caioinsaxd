@@ -16,6 +16,7 @@
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
@@ -32,6 +33,7 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![FileZilla](https://img.shields.io/badge/FileZilla-black?style=for-the-badge&logo=filezilla)
 
 ## 🤝 Connect with Me
 
