@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql)
-
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
