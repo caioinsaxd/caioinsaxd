@@ -21,6 +21,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
+### ORM
+![TypeORM](https://img.shields.io/badge/TypeORM-black?style=for-the-badge&logo=typeorm)
+![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
@@ -29,7 +32,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
 ### Tools
-
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
