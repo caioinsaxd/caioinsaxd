@@ -18,12 +18,14 @@
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-black?style=for-the-badge&logo=adonisjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
 ### ORM
 ![TypeORM](https://img.shields.io/badge/TypeORM-black?style=for-the-badge&logo=typeorm)
 ![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
+![Lucid](https://img.shields.io/badge/Lucid-black?style=for-the-badge&logo=adonisjs)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
