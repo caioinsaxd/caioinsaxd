@@ -2,8 +2,6 @@
 
 **Full Stack Software Developer | English Instructor**  
 
-
-
 ## ⚙ Tech Stack
 
 ### Core languages
@@ -29,6 +27,7 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Inertia](https://img.shields.io/badge/Inertia-black?style=for-the-badge&logo=inertia)
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
