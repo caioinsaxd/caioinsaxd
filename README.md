@@ -38,6 +38,7 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![FileZilla](https://img.shields.io/badge/FileZilla-black?style=for-the-badge&logo=filezilla)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 
 ## 🤝 Connect with Me
 
